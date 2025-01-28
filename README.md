@@ -19,10 +19,10 @@ If you think I’d be a great fit for your team, feel free to reach out!
 - **UI/UX Design**
 
 ## Projects
-- **[SLB BlueMM(Flutter)]**: A logistics management app that tracks shipments and provides real-time updates.
-- **[SLB Colibri(Flutter)]**: Schlumberger's platform for rapidly developing custom enterprise applications, with rich pre-built components for cost-effective app development.
-- **[eMedicon (Kotlin)]**: A healthcare app offering online doctor consultations, medicine delivery, and comprehensive healthcare plans.
-- **[Mr&Mrs Ekart(Kotlin)]**: An online shopping app allowing consumers, including those in remote areas of India, to access products from top brands at competitive prices.
+- **SLB BlueMM(Flutter)**: A logistics management app that tracks shipments and provides real-time updates.
+- **SLB Colibri(Flutter)**: Schlumberger's platform for rapidly developing custom enterprise applications, with rich pre-built components for cost-effective app development.
+- **eMedicon (Kotlin)**: A healthcare app offering online doctor consultations, medicine delivery, and comprehensive healthcare plans.
+- **Mr&Mrs Ekart(Kotlin)**: An online shopping app allowing consumers, including those in remote areas of India, to access products from top brands at competitive prices.
   
 
 ## Contact
