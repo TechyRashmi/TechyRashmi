@@ -5,7 +5,9 @@
   <img width="1000" alt="MyPicIsaiasCuvula" src="https://github.com/TechyRashmi/TechyRashmi/blob/main/rashmi_profile.png" />
 </p>
 
-Hello and welcome! 👋🏾 Thank you for taking the time to explore my GitHub repository. Here, you will find a curated selection of my recent Flutter projects that showcase my skills and expertise. As a Flutter Developer, I am currently seeking remote or relocation opportunities. Please take a look at my projects to see what I can do. If you think I'd be a good fit for your team, feel free to reach out!  
+Hello and welcome! 👋🏾 Thank you for taking the time to explore my GitHub repository. 
+I’m Rashmi Dwivedi, a dedicated Mobile Application Developer with expertise in Flutter, Android, Kotlin, and Java.During my tenure as a Technology Analyst at Infosys in India, I developed and managed mobile applications, delivering high-quality technical solutions that met complex business requirements. Now based in the United States, I am actively seeking remote opportunities as a Flutter Application Developer, where I can leverage my skills to create innovative and impactful mobile applications.
+If you think I'd be a good fit for your team, feel free to reach out!  
 
 ## Skills
 - **Flutter**
