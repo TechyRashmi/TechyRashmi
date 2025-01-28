@@ -19,9 +19,11 @@ If you think I’d be a great fit for your team, feel free to reach out!
 - **UI/UX Design**
 
 ## Projects
-- **[Logistics App (Flutter)](link-to-your-repo)**: A logistics management app that tracks shipments and provides real-time updates.
-- **[Healthcare App (Kotlin)](link-to-your-repo)**: A healthcare app for managing patient records and appointments.
-- **[Crypto App (Flutter)](link-to-your-repo)**: A crypto tracking app that works seamlessly in both India and the USA.
+- **[SLB BlueMM(Flutter)]**: A logistics management app that tracks shipments and provides real-time updates.
+- **[SLB Colibri(Flutter)]**: Schlumberger's platform for rapidly developing custom enterprise applications, with rich pre-built components for cost-effective app development.
+- **[eMedicon (Kotlin)]**: A healthcare app offering online doctor consultations, medicine delivery, and comprehensive healthcare plans.
+- **[Mr&Mrs Ekart(Kotlin)]**: An online shopping app allowing consumers, including those in remote areas of India, to access products from top brands at competitive prices.
+  
 
 ## Contact
 - Email: [22dwivedirashmi22@gmail.com](mailto:22dwivedirashmi22@gmail.com)
