@@ -7,11 +7,7 @@
 
 Hello and welcome! 👋🏾
 Thank you for taking the time to explore my GitHub repository.
-
-I’m Rashmi Dwivedi, a dedicated Mobile Application Developer with expertise in Flutter, Android, Kotlin, and Java. I have experience developing and managing mobile applications, delivering high-quality technical solutions that meet complex business requirements.
-
-Currently residing in the United States with valid work authorization, I am actively seeking remote opportunities as a Mobile Application Developer, where I can leverage my skills to create innovative and impactful mobile applications.
-
+I’m Rashmi Dwivedi, a dedicated Mobile Application Developer with expertise in Flutter, Android, Kotlin, and Java. I have experience developing and managing mobile applications, delivering high-quality technical solutions that meet complex business requirements.Currently residing in the United States with valid work authorization, I am actively seeking remote opportunities as a Mobile Application Developer, where I can leverage my skills to create innovative and impactful mobile applications.
 If you think I’d be a great fit for your team, feel free to reach out!
 ## Skills
 - **Flutter**
